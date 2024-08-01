@@ -1,2 +1,2 @@
 def fun(x):
-	return x**2
+	return x**0.5
